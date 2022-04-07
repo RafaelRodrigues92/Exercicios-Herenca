@@ -23,7 +23,7 @@ public class TestAnimais {
 		an2.setCavalgar("Cavalga");
 		an2.imprimir();
 
-		an3.setEspecie("Preguiça");
+		an3.setEspecie("Gato");
 		an3.setNome("Crush");
 		an3.setIdade(3);
 		an3.setEmitirSom("Miado");

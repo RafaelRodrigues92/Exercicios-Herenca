@@ -34,7 +34,7 @@ public class Animais {
 	}
 	
 	void imprimir() {
-		System.out.println("Especie: "+especie+" de nome: "+nome+ ", tem: "+idade+" anos de idade.");
+		System.out.println("Espécie: "+especie+" de nome: "+nome+ ", tem: "+idade+" anos de idade.");
 		System.out.println("O som que ele emite é o: "+emitirSom);
 		System.out.println("====================================");
 
